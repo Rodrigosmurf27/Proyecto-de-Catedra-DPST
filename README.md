@@ -6,29 +6,29 @@ Venmol es una aplicación móvil desarrollada en React Native para la gestión i
 
 Características
 
-📦 Registro y control de inventario: Gestión de productos con nombre, cantidad, categoría y precio.
+•	📦 Registro y control de inventario: Gestión de productos con nombre, cantidad, categoría y precio.
 
-🛒 Registro de ventas: Actualización automática del stock tras cada venta.
+•	🛒 Registro de ventas: Actualización automática del stock tras cada venta.
 
-📊 Historial de movimientos: Registro detallado de productos vendidos con fecha y usuario.
+•	📊 Historial de movimientos: Registro detallado de productos vendidos con fecha y usuario.
 
-🔔 Alertas de stock bajo: Notificación cuando un producto está por agotarse.
+•	🔔 Alertas de stock bajo: Notificación cuando un producto está por agotarse.
 
-🔑 Autenticación de usuarios: Roles diferenciados para empleados y jefes.
+•	🔑 Autenticación de usuarios: Roles diferenciados para empleados y jefes.
 
 Tecnologías Utilizadas
 
-Frontend: React Native
+•	Frontend: React Native
 
-Backend: Node.js con Express
+•	Backend: Node.js con Express
 
-Base de Datos: Firebase Firestore
+•	Base de Datos: Firebase Firestore
 
-Control de Versiones: GitHub
+•	Control de Versiones: GitHub
 
-Gestión del Proyecto: Trello / Notion
+•	Gestión del Proyecto: Trello / Notion
 
-Contenedorización: Docker y Kubernetes
+•	Contenedorización: Docker y Kubernetes
 
 Instalación y Configuración
 
@@ -36,68 +36,70 @@ Requisitos previos
 
 Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
 
-Node.js (>= 14.x)
+•	Node.js (>= 14.x)
 
-Expo CLI (npm install -g expo-cli)
+•	Expo CLI (npm install -g expo-cli)
 
-Firebase configurado con claves de API
+•	Firebase configurado con claves de API
 
-Docker y Kubernetes instalados para el despliegue
+•	Docker y Kubernetes instalados para el despliegue
 
 Pasos de instalación
 
-Clona el repositorio:
-
-Ingresa al directorio del proyecto:
-
-Instala las dependencias:
-
-Configura las credenciales de Firebase en un archivo .env.
-
-Inicia la aplicación en modo desarrollo:
-
-Para construir la aplicación para Android e iOS:
-
+1.	Clona el repositorio:
+   
+3.	Ingresa al directorio del proyecto:
+   
+5.	Instala las dependencias:
+   
+7.	Configura las credenciales de Firebase en un archivo .env.
+   
+9.	Inicia la aplicación en modo desarrollo:
+    
+11.	Para construir la aplicación para Android e iOS:
+    
 Uso de la Aplicación
 
-Empleados: Pueden registrar ventas y actualizar el stock.
+•	Empleados: Pueden registrar ventas y actualizar el stock.
 
-Jefes: Pueden visualizar reportes y monitorear movimientos del inventario.
+•	Jefes: Pueden visualizar reportes y monitorear movimientos del inventario.
 
 Despliegue con Docker y Kubernetes
 
 Construcción y ejecución con Docker
 
-Construir la imagen Docker:
-
-Ejecutar el contenedor:
-
+1.	Construir la imagen Docker:
+   
+3.	Ejecutar el contenedor:
+   
 Despliegue en Kubernetes
 
-Aplicar la configuración de Kubernetes:
-
-Verificar los pods en ejecución:
-
+1.	Aplicar la configuración de Kubernetes:
+   
+3.	Verificar los pods en ejecución:
+   
 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Para contribuir, sigue estos pasos:
 
-Realiza un fork del repositorio.
-
-Crea una rama con tu mejora:
-
-Realiza los cambios y sube los commits:
-
-Envía un Pull Request.
-
+1.	Realiza un fork del repositorio.
+   
+3.	Crea una rama con tu mejora:
+   
+5.	Realiza los cambios y sube los commits:
+   
+7.	Envía un Pull Request.
+   
 Integrantes
 
-Bonilla Perez William Adonay - BP220765
+•	Bonilla Perez William Adonay - BP220765
 
-Velasco Herrera Rodrigo Alberto - VH192433
+•	Velasco Herrera Rodrigo Alberto - VH192433
 
-Rivera Linares Julio David - RL241378
+•	Rivera Linares Julio David - RL241378
 
-Sandoval Guillen Evelyn Marisol - SG210007
+•	Sandoval Guillen Evelyn Marisol - SG210007
 
-Sanchez Campos Rolando Ezequiel - SC231259
+•	Sanchez Campos Rolando Ezequiel - SC231259
+
+
